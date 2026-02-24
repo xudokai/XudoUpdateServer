@@ -1,1 +1,44 @@
+add variants/Amy/+Sonic.ar.00
+add variants/Amy/+Sonic.arl
+add variants/Blaze/+Sonic.ar.00
+add variants/Blaze/+Sonic.arl
+add variants/Burning Blaze/+Sonic.ar.00
+add variants/Burning Blaze/+Sonic.arl
+add variants/Cream/+Sonic.ar.00
+add variants/Cream/+Sonic.arl
+add variants/Dark Sonic/+Sonic.ar.00
+add variants/Dark Sonic/+Sonic.arl
+add variants/Jet/+Sonic.ar.00
+add variants/Jet/+Sonic.arl
+add variants/Knuckles/+Sonic.ar.00
+add variants/Knuckles/+Sonic.arl
+add variants/Shadic/+Sonic.ar.00
+add variants/Shadic/+Sonic.arl
+add variants/Shadow/+Sonic.ar.00
+add variants/Shadow/+Sonic.arl
+add variants/Silver/+Sonic.ar.00
+add variants/Silver/+Sonic.arl
+add variants/Sonamy/+Sonic.ar.00
+add variants/Sonamy/+Sonic.arl
+add variants/Sonic (classic)/+Sonic.ar.00
+add variants/Sonic (classic)/+Sonic.arl
+add variants/Sonic (modern)/+Sonic.ar.00
+add variants/Sonic (modern)/+Sonic.arl
+add variants/Starfall Super Sonic/+Sonic.ar.00
+add variants/Starfall Super Sonic/+Sonic.arl
+add variants/Sticks/+Sonic.ar.00
+add variants/Sticks/+Sonic.arl
+add variants/Super Sonic/+Sonic.ar.00
+add variants/Super Sonic/+Sonic.arl
+add variants/Tails/+Sonic.ar.00
+add variants/Tails/+Sonic.arl
+add variants/Tangle/+Sonic.ar.00
+add variants/Tangle/+Sonic.arl
+add variants/Whisper/+Sonic.ar.00
+add variants/Whisper/+Sonic.arl
+add variants/Wind/+Sonic.ar.00
+add variants/Wind/+Sonic.arl
 add mod.ini
+add mod.json
+add smoke option/Disabled/+Sonic.ar.00
+add smoke option/Disabled/+Sonic.arl
